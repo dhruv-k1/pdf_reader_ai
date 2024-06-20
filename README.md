@@ -37,7 +37,7 @@ class BERTQA:
         return answer
 
 bert_qa = BERTQA()
-
+```
 
 ### app.py
 
